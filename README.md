@@ -28,7 +28,8 @@ Demographic growth in DR Congo is evident, with an estimated population of 102 m
 - Data: WorldPopHub
 - Tools : Aerialod, QGIS
 
- ![Uploading 2Congo Desnity Map.png…]()
+![2Congo Density Map](https://github.com/user-attachments/assets/17863900-8469-4be6-8c63-e863c4551a94)
+
 
  # Ethiopia Density of Population Map
 
