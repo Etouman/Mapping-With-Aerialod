@@ -1,6 +1,7 @@
 # Mapping With Aerialod
-- This repository contains my maps drawed using River Relative Elevation Model
-- This is from an awesome worflow to automate data processing . So you can plug in any DEM and get quick outputs! For all those, I use RiverREM from @Kenneth Larieu
+- This repository contains my maps drawed using Aerialod. 
+- This is from an atonishing tool that generate a 3D representation of some data. So you can plug any raster that have elevation data and get 3D Visualizations !
+- For all those, I use Aerialod from Ephtracy https://ephtracy.github.io/index.html?page=aerialod
 - Click on each map, to see its high resolution version!
 - Many others maps will be added soon.
 
