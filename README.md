@@ -33,4 +33,11 @@ Demographic growth in DR Congo is evident, with an estimated population of 102 m
 
  # Ethiopia Density of Population Map
 
+I'm pleased to unveil a 3D map showing Ethiopia's population density. Did you know that Ethiopia had a population of over 100 million in 2020. It's one of the most populated countries in Africa. The population is mainly concentrated in cities such as Addis-Abeba, Baher Dar and Gondar. 
+
+- Data: WorldPopHub
+- Tools : Aerialod, QGIS
+
+  ![Ethiopia Population Densithy](https://github.com/user-attachments/assets/600d9983-9fb5-42ed-a579-9c64cbc48cfd)
+
  
